@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nicofen
-- 👀 I’m interested in: programmming
-- 🌱 I’m currently learning: racket
-- 💞️ I’m looking to collaborate on: nothing currently
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning racket
 - 📫 How to reach me: email or message me
 
 <!---
