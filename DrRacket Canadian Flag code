@@ -1,0 +1,5 @@
+(require 2htdp/image)
+
+(beside (rectangle 20 40 "solid" "red")
+        (rectangle 40 40 "solid" "white")
+        (rectangle 20 40 "solid" "red"))
