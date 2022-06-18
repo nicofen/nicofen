@@ -1,0 +1,6 @@
+"Dr Racket"
+(string-append "Dr" "Racket")
+(string-length "Substring")
+(substring "Caribou" 0 3)
+(substring "012345678" 2 4)
+(string-append "1" "2")
