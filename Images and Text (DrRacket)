@@ -1,0 +1,23 @@
+(require 2htdp/image)
+;(circle 10 "solid" "blue")
+;(text "hello" 24 "black")
+;(above (circle 15 "solid" "red")
+       ;(circle 25 "solid" "yellow")
+       ;(circle 40 "solid" "green"))
+
+;(image-width.)
+;(circle 30 "outline" "red")
+;(circle 20 "solid" "blue")
+;(circle 20 100 "blue")
+
+;(overlay (circle 15 "solid" "red")
+       ;(circle 25 "solid" "yellow")
+       ;(circle 40 "solid" "green")
+
+(overlay (text "STOP" 48 "white") 
+
+         (regular-polygon 60 8 "solid" "red"))
+
+;(beside (square 20 "outline" "blue")
+        ;(above (circle 15 "solid" "red")
+               ;(triangle 20 "solid" "green")))
