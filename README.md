@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicofen
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning racket
+- 🌱 I’m currently learning about Generative AI
 - 📫 How to reach me: email or message me
 
 <!---
